@@ -1,0 +1,21 @@
+# окружение
+.venv/
+
+# данные Kaggle (не выкладываем)
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# результаты
+submission.csv
+*.joblib
+*.pkl
+
+# прочее
+.env
+.vscode/
